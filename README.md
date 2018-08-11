@@ -1,16 +1,16 @@
-# fastdfs-single
+#  Fastdfs-single
 使用docker compose 创建fastdfs单机版服务(tarcker,storage,nginx)
 ## 使用
 1. 在Linux中[安装docker](https://blog.csdn.net/meiko_zhang/article/details/81320721).  
-2. 安装git  
-
-   sudo apt-get install git
-3. clone项目  
-
-   git clone  https://github.com/meiko-zhang/fastdfs-single.git  
+2. 安装git    
+  
+	    sudo apt-get install git
+3. clone项目    
+  
+	   git clone  https://github.com/meiko-zhang/fastdfs-single.git  
 4. 进入fastdfs-single 目录  
 
-    cd fastdfs-single
+       cd fastdfs-single
 5. 修改docker-compose.yml
 ```
 version: '3.0'
@@ -42,7 +42,7 @@ services:
  
 6. 执行docker-compose 命令  
 
-    docker-compose up -d
+        docker-compose up -d
     
 测试及其他配置请[参考文档](https://www.centos.bz/2017/12/%E4%BD%BF%E7%94%A8docker-compose%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9Ffastdfs/).
     
