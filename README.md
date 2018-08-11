@@ -46,3 +46,4 @@ services:
     
 测试及其他配置请[参考文档](https://www.centos.bz/2017/12/%E4%BD%BF%E7%94%A8docker-compose%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9Ffastdfs/).
     
+项目文件[百度云地址](https://pan.baidu.com/s/1Mu0GRhoFkrgFkB68P2Et-Q).
